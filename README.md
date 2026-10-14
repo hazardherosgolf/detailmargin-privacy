@@ -8,6 +8,6 @@ https://hazardherosgolf.github.io/detailmargin-privacy/
 
 The site source is in [index.html](./index.html).
 
-**Support contact:** Davidcross2888@gmail.com
+**Support contact:** detailmargin.support@gmail.com
 
 The Android app source, data and APKs are intentionally not hosted in this repository.
